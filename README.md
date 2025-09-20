@@ -18,9 +18,9 @@ Nosso objetivo era aplicar a mentalidade de testes de software de pessoas refer�
 💡Para a organização das tarefas, usamos a ferramenta **Trello**, dividindo o trabalho em duas "user stories". Sendo que a primeira focou no desenvolvimento e execução dos testes, enquanto a segunda, na estruturação do material de entrega. Cada integrante foi responsável por testar uma seção específica do site com o objetivo de aplicar os prompts estruturados para a identificação dos testes com base nas mentalidades, realizar os testes, fazer o levamento de defeitos e riscos associados para o negócio.
 
 ---
-### **Site e Escopo de Teste**
+### **E-commerce e Escopo de Teste**
 
-* **Site Testado:** `https://www.fusqueijao.com.br/`
+* **E-commerce Testado:** `https://www.fusqueijao.com.br/`
 * **Seções Testadas:**
     * A. Seção de Navegação e Menus
     * B. Busca e Catálogo de Produtos
